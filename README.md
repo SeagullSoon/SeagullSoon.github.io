@@ -1,3 +1,4 @@
+<div style="background-colour: black; colour: white; padding: 20px;">
 # The Cat Army
 
 + `(^·‿·^)` Happy Cat
@@ -91,3 +92,4 @@ Voice-over: Welcome one and all!
 
 `(^🍉‿·^)` Watermelon Cat (Winking)
  
+</div>
