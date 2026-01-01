@@ -1,4 +1,4 @@
-<a href="https://seagullsoon.github.io/parade/"><h1>The Cat Army</h1></a>
+# The Cat Army
 
 + `(^·‿·^)` Happy Cat
 + `(^·⁔·^)` Sad Cat
