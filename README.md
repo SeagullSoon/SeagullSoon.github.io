@@ -58,6 +58,8 @@
 ## The Watermelon Cats: (On at the Lemon Exchange Cinema)
 
 Voice-over: The Lemon-Exchange Cinema is presenting... **The Watermellon Cats!**
+
+-
 *[Audience Applauds]*
 
 📯 *[Dramatic Trumpet Music]*
