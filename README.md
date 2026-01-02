@@ -58,17 +58,24 @@
 ## The Watermelon Cats: (On at the Lemon Exchange Cinema)
 
 Voice-over: The Lemon-Exchange Cinema is presenting... **The Watermellon Cats!**
+
 *[Audience Applauds]*
+
 📯 *[Dramatic Trumpet Music]*
+
 Voice-over: Welcome one and all!
+
 📯 *[Trumpeting (Do-do-da-dooo)]*
 `(^🍉‿🍉^)` Watermelon Cat
+
 📯 *[Trumpeting (Do-do-da-dooo)]*
 
 `(^🍉⁔🍉^)` Watermelon Cat (Sad)
+
 📯 *[Trumpeting (Do-do-da-dooo)]*
 
 `(^🍉_🍉^)` Watermelon Cat (Neutral)
+
 📯 *[Trumpeting (Do-do-da-dooo)]*
 
 `(^🍉‿·^)` Watermelon Cat (Winking)
