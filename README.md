@@ -58,37 +58,37 @@
 ## The Watermelon Cats: (On at the Lemon Exchange Cinema)
 
 Voice-over: The Lemon-Exchange Cinema is presenting... **The Watermellon Cats!**
-
-- <br>
 *[Audience Applauds]*
-
 📯 *[Dramatic Trumpet Music]*
-
 Voice-over: Welcome one and all!
-
-- 
-
 📯 *[Trumpeting (Do-do-da-dooo)]*
-
 `(^🍉‿🍉^)` Watermelon Cat
-
-- 
-
-
 📯 *[Trumpeting (Do-do-da-dooo)]*
 
 `(^🍉⁔🍉^)` Watermelon Cat (Sad)
-
-- 
-
-
 📯 *[Trumpeting (Do-do-da-dooo)]*
 
 `(^🍉_🍉^)` Watermelon Cat (Neutral)
-
-- 
-
-
 📯 *[Trumpeting (Do-do-da-dooo)]*
 
 `(^🍉‿·^)` Watermelon Cat (Winking)
+
+---
+
+## Cat Grammar
+
+Outlines:
+{} Crown / Royal
+[] Helmet
+() Ordinary
+~ Common decoration
+
+Decorations:
+✯ Magic (Gandalf)
+—☆ Wand
+
+Extras:
+-() Speech bubble
+-Ɛ    3 Thought bubble
+
+---
