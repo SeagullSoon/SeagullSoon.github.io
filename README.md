@@ -66,6 +66,7 @@ Voice-over: The Lemon-Exchange Cinema is presenting... **The Watermellon Cats!**
 Voice-over: Welcome one and all!
 
 📯 *[Trumpeting (Do-do-da-dooo)]*
+
 `(^🍉‿🍉^)` Watermelon Cat
 
 📯 *[Trumpeting (Do-do-da-dooo)]*
