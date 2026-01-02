@@ -77,18 +77,26 @@ Voice-over: Welcome one and all!
 
 ## Cat Grammar
 
-Outlines:
+### Outlines:
+
 {} Crown / Royal
+
 [] Helmet
+
 () Ordinary
+
+### Decorations:
+
 ~ Common decoration
 
-Decorations:
 ✯ Magic (Gandalf)
+
 —☆ Wand
 
-Extras:
+### Extras:
+
 -() Speech bubble
+
 -Ɛ    3 Thought bubble
 
 ---
