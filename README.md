@@ -23,6 +23,8 @@
 
 + `(|^·_·^|)` Ninja Cat
 + `[^·_·^]` Soldier Cat
++ `[^·_·^]🪶 -(Tickle-Tickle!!!)` Soldier Cat - with tickling feather (Holding up tickling feather to tickle indruders)
++ `~ [^·_·^]🪶 ~ -(Tickle-Tickle!!!)` Royal Guard Cat (Decorated version of "Soldier Cat - with tickling feather"
 + `~~ (^·‿·^) ~~` Ship Cat (Decorated with waves)
 + `++ (^·‿·^) ++` Doctor Cat (Decorated with first-aid symbols)
 + `++ (^·_·^) ++` Serious Doctor Cat
